@@ -1,97 +1,205 @@
-<img width="100%" alt="Biswajeet Behera — Research, Data, Insights, Decisions and Impact" src="assets/profile-header-dark.svg">
+<!-- Profile README for github.com/biswajeet-gitcom
+     This file must live in a repo named exactly: biswajeet-gitcom -->
 
-<p align="center">
-  <a href="https://biswajeet.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-087F8C?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/biswajeet-in"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/biswajeet-gitcom?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-1769AA?style=for-the-badge&logo=github&logoColor=white"></a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b0e12,60:3b2a07,100:ffb454&text=Biswajeet%20Behera&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descAlignY=60&descSize=18&animation=fadeIn" alt="Biswajeet Behera banner" width="100%" />
+
+<a href="https://github.com/biswajeet-gitcom">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFB454&center=true&vCenter=true&width=640&height=40&lines=Turning+complex+datasets+into+business+insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;M.Tech+CSE+%7C+Data+Science" alt="Typing animation" />
+</a>
+
+<p>
+  <a href="https://biswajeet.pages.dev"><img src="https://img.shields.io/badge/Portfolio-biswajeet.pages.dev-ffb454?style=for-the-badge&labelColor=0b0e12" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/biswajeet-in"><img src="https://img.shields.io/badge/LinkedIn-biswajeet--in-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e12" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=biswajeet-gitcom&label=Profile+views&color=ffb454&style=for-the-badge&labelColor=0b0e12" alt="Profile views" />
 </p>
 
-## Profile overview
+</div>
 
-I am an **M.Tech student and aspiring data scientist** who enjoys turning complex datasets into clear business decisions. My work combines exploratory analysis, KPI design, visual storytelling, and machine-learning prediction across supply chain, healthcare, retail, HR, and sales domains.
+---
+
+## `$ cat about_me.md`
+
+```bash
+biswajeet@gitcom:~$ cat about_me.md
+```
+
+> **I'm Biswajeet Behera, a postgraduate student in Computer Science and Engineering with a specialization in Data Science.**
+> I turn complex datasets into insights that teams can act on. My work spans machine learning prediction, Power BI dashboards and end-to-end data pipelines, using Python, SQL and Excel.
+> I'm building toward **data analyst and data scientist** roles, and I'm open to internships, entry-level roles and collaboration.
+
+```bash
+biswajeet@gitcom:~$ neofetch
+```
+
+```text
+   ____  ____
+  | __ )| __ )     name    Biswajeet Behera
+  |  _ \|  _ \     role    Aspiring Data Scientist
+  | |_) | |_) |    study   M.Tech, CSE (Data Science) `inprogress`
+  |____/|____/     stack   Python, SQL, Power BI, Excel
+                   focus   Analytics, ML, data pipelines
+                   site    biswajeet.pages.dev
+```
+
+---
+
+## `$ git log --latest`
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <h2>13</h2>
-      <strong>Public Repositories</strong><br>
-    </td>
-    <td align="center" width="25%">
-      <h2>5</h2>
-      <strong>Business Domains</strong><br>
-    </td>
-    <td align="center" width="25%">
-      <h2>Python</h2>
-      <strong>Primary Language</strong><br>
-    </td>
-    <td align="center" width="25%">
-      <h2>M.Tech</h2>
-      <strong>Current Journey</strong><br>
-    </td>
-  </tr>
+<tr>
+<td>
+
+### Swiggy end-to-end data platform &nbsp;
+
+Raw food-delivery data modelled in a warehouse, analysed in Python, then served through an app and a chatbot.
+
+```text
+Snowflake  ->  dbt  ->  Python EDA  ->  Streamlit  ->  LLM / RAG chatbot
+```
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+<!-- TODO: replace the link below with the Swiggy repo URL once it is public -->
+[View the repository](https://github.com/biswajeet-gitcom/swiggy-food-project)
+
+</td>
+</tr>
 </table>
 
-### Analytics workflow
+---
 
-| 01 — Prepare | 02 — Explore | 03 — Visualize | 04 — Predict |
-|:---:|:---:|:---:|:---:|
-| Clean and validate data | Discover KPIs and patterns | Communicate business evidence | Recommend practical action |
+## `$ ls ~/portfolio`
 
-## Featured case study
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚚 [Supply Chain Delivery Performance Analysis](https://github.com/biswajeet-gitcom/supply_chain_logistic)
+### Portfolio website
+Live site with projects, skills and contact links.
 
+<img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
+
+[Open biswajeet.pages.dev](https://biswajeet.pages.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio app
+Personal portfolio built in Python with the Flet UI library.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flet-0553B1?style=flat-square" alt="Flet" />
+
+[View source](https://github.com/biswajeet-gitcom/Portfolio_project_Flet-python)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ./skills --list`
+
+<div align="center">
+
+**Languages and analysis**
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" alt="Languages" />
+
+**Data and ML libraries**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+**BI and tools**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+## `$ ls ~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [supply_chain_logistic](https://github.com/biswajeet-gitcom/supply_chain_logistic)
 An end-to-end supply-chain study covering data cleaning, exploratory analysis, business KPIs, profitability, operational bottlenecks, time-based trends, and late-delivery prediction.
 
-| Source records | Cleaned orders | Net order profit | Late deliveries |
-|---:|---:|---:|---:|
-| **180,519** | **176,827** | **$3.89M** | **57.28%** |
+`Jupyter` `Python` `Machine learning`
 
-`Python` · `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `SMOTE` · `XGBoost` · `Jupyter Notebook`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected analytics portfolio
+### [lung_cancer_analysis](https://github.com/biswajeet-gitcom/lung_cancer_analysis)
+Cancer analysis and prediction using machine learning and data science.
 
-| Project | Business focus | Main tools |
-|---|---|---|
-| [🛒 Walmart Sales Analysis](https://github.com/biswajeet-gitcom/Walmart_sales_data_analysis) | Store-level sales patterns and business insights | Data Analysis, SQL + Power BI |
-| [🫁 Lung Cancer Analysis](https://github.com/biswajeet-gitcom/lung_cancer_analysis) | Healthcare analysis and cancer-risk prediction | Python, Jupyter, Machine Learning |
-| [📊 Superstore Sales Analysis](https://github.com/biswajeet-gitcom/Superstore_sales_analysis_Power-BI) | Retail sales performance and KPI reporting | Power BI |
-| [🍽️ Restaurant Data Analysis](https://github.com/biswajeet-gitcom/Restaurant-data-analysis) | Restaurant sales analysis and reporting | Power BI, Excel |
-| [👥 HR Analysis Report](https://github.com/biswajeet-gitcom/HR-Analysis-Report) | Employee attrition trends and workforce insights | Business Intelligence |
+`Jupyter` `Python` `Machine learning`
 
-## Technical toolkit
+</td>
+<td width="50%" valign="top">
 
-**Data analysis and machine learning**
+### [Restaurant-data-analysis](https://github.com/biswajeet-gitcom/Restaurant-data-analysis)
+Restaurant sales analysis with interactive dashboards.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white)
+`Power BI` `Excel`
 
-**Visualization and business intelligence**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+### [HR-Analysis-Report](https://github.com/biswajeet-gitcom/HR-Analysis-Report)
+Employee attrition trends and the factors behind them.
 
-**Applications and development**
+`Power BI` `HR analytics`
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-## Let's connect
+### [Cognifyz_intern](https://github.com/biswajeet-gitcom/Cognifyz_intern)
+First data analysis internship tasks at Cognifyz Tech.
 
-I am continuously learning and building practical analytics projects. Explore my work, share feedback, or connect with me to discuss data science, business intelligence, and machine learning.
+`Jupyter` `Python` `EDA`
 
-<p align="center">
-  <a href="https://biswajeet.pages.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/biswajeet-in">LinkedIn</a> ·
-  <a href="https://github.com/biswajeet-gitcom?tab=repositories">All Repositories</a>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center"><strong>Turning complex data into clear decisions.</strong></p>
+---
+
+## `$ git stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=biswajeet-gitcom&show_icons=true&hide_border=true&bg_color=0b0e12&title_color=ffb454&icon_color=ffb454&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajeet-gitcom&layout=compact&hide_border=true&bg_color=0b0e12&title_color=ffb454&text_color=c9d1d9" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+biswajeet@gitcom:~$ echo "Open to internships and data roles. Let's talk."
+```
+
+<a href="https://www.linkedin.com/in/biswajeet-in">LinkedIn</a> &nbsp;·&nbsp; <a href="https://biswajeet.pages.dev">Portfolio</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ffb454,100:0b0e12&section=footer" alt="footer" width="100%" />
+
+</div>
