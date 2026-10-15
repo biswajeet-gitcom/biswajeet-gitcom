@@ -12,7 +12,6 @@
 <p>
   <a href="https://biswajeet.pages.dev"><img src="https://img.shields.io/badge/Portfolio-biswajeet.pages.dev-ffb454?style=for-the-badge&labelColor=0b0e12" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/biswajeet-in"><img src="https://img.shields.io/badge/LinkedIn-biswajeet--in-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e12" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=biswajeet-gitcom&label=Profile+views&color=ffb454&style=for-the-badge&labelColor=0b0e12" alt="Profile views" />
 </p>
 
 </div>
@@ -73,22 +72,6 @@ Snowflake  ->  dbt  ->  Python EDA  ->  Streamlit  ->  LLM / RAG chatbot
 
 ---
 
-## `$ ls ~/portfolio`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Portfolio website
-Live site with projects, skills and contact links.
-
-<img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
-
-[Open biswajeet.pages.dev](https://biswajeet.pages.dev)
-
-</td>
-<td width="50%" valign="top">
-
 ### Portfolio app
 Personal portfolio built in Python with the Flet UI library.
 
@@ -122,6 +105,8 @@ Personal portfolio built in Python with the Flet UI library.
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
@@ -140,7 +125,9 @@ An end-to-end supply-chain study covering data cleaning, exploratory analysis, b
 
 `Jupyter` `Python` `Machine learning`
 
-<table>
+</td>
+<td width="50%" valign="top">
+
 <tr>
 <td width="50%" valign="top">
 
