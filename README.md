@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b0e12,60:3b2a07,100:ffb454&text=Biswajeet%20Behera&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descAlignY=60&descSize=18&animation=fadeIn" alt="Biswajeet Behera banner" width="100%" />
 
 <a href="https://github.com/biswajeet-gitcom">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFB454&center=true&vCenter=true&width=640&height=40&lines=Turning+complex+datasets+into+business+insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning+LLM+%C2%B7+RAG;M.Tech+CSE+%7C+Data+Science" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFB454&center=true&vCenter=true&width=640&height=40&lines=Turning+complex+datasets+into+business+insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning+%C2%B7+LLM+%C2%B7+RAG;M.Tech+CSE+%7C+Data+Science" alt="Typing animation" />
 </a>
 
 <p>
