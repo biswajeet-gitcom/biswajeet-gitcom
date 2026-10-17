@@ -126,6 +126,7 @@ An end-to-end supply-chain study covering data cleaning, exploratory analysis, b
 `Jupyter` `Python` `Machine learning`
 </td>
 <td width="50%" valign="top">
+     
 ### [Superstore_sales_analysis_Power-BI](https://github.com/biswajeet-gitcom/Superstore_sales_analysis_Power-BI)
 A Complete Power-Bi analysis with Report and Dashboard, SALES - PROFIT - CUSTOMERS - LOGISTICS
 
