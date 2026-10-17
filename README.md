@@ -124,10 +124,16 @@ Personal portfolio built in Python with the Flet UI library.
 An end-to-end supply-chain study covering data cleaning, exploratory analysis, business KPIs, profitability, operational bottlenecks, time-based trends, and late-delivery prediction.
 
 `Jupyter` `Python` `Machine learning`
-
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+### [Superstore_sales_analysis_Power-BI](https://github.com/biswajeet-gitcom/Superstore_sales_analysis_Power-BI)
+A Complete Power-Bi analysis with Report and Dashboard, SALES - PROFIT - CUSTOMERS - LOGISTICS
 
+`Excel` `Power-Bi` `DAX`
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -143,7 +149,6 @@ Cancer analysis and prediction using machine learning and data science.
 Restaurant sales analysis with interactive dashboards.
 
 `Power BI` `Excel`
-
 </td>
 </tr>
 <tr>
