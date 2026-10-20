@@ -71,14 +71,19 @@ Snowflake  ->  dbt  ->  Python EDA  ->  Streamlit  ->  LLM / RAG chatbot
 </table>
 
 ---
+## `$ ./prifile`
 
-### Portfolio app
-Personal portfolio built in Python with the Flet UI library.
+<table>
+<td>
+<tr>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flet-0553B1?style=flat-square" alt="Flet" />
+### Portfolio Profile
+Personal portfolio built in Python with Streamlit library & custom css.
 
-[View source](https://github.com/biswajeet-gitcom/Portfolio_project_Flet-python)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+[Live](https://biswajeet.streamlit.app/)
+[View source](https://github.com/biswajeet-gitcom/Portfolio_webapp/)
 
 </td>
 </tr>
