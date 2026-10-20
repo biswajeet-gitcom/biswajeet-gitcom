@@ -38,8 +38,8 @@ biswajeet@gitcom:~$ neofetch
   |  _ \|  _ \     role    Aspiring Data Scientist
   | |_) | |_) |    study   M.Tech, CSE (Data Science) `inprogress`
   |____/|____/     stack   Python, SQL, Power BI, Excel
-                   focus   Analytics, ML, data pipelines
-                   site    biswajeet.pages.dev
+                   focus   Analytics, ML, data pipelines, RAG system, LLM
+                   site    biswajeet.streamlit.app
 ```
 
 ---
