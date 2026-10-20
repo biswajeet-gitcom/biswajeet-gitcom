@@ -10,7 +10,7 @@
 </a>
 
 <p>
-  <a href="https://biswajeet.pages.dev"><img src="https://img.shields.io/badge/Portfolio-biswajeet.pages.dev-ffb454?style=for-the-badge&labelColor=0b0e12" alt="Portfolio" /></a>
+  <a href="https://biswajeet.streamlit.app"><img src="https://img.shields.io/badge/Portfolio-biswajeet-ffb454?style=for-the-badge&labelColor=0b0e12" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/biswajeet-in"><img src="https://img.shields.io/badge/LinkedIn-biswajeet--in-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e12" alt="LinkedIn" /></a>
 </p>
 
