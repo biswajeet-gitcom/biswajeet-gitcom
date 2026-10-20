@@ -194,7 +194,7 @@ First data analysis internship tasks at Cognifyz Tech.
 biswajeet@gitcom:~$ echo "Open to internships and data roles. Let's talk."
 ```
 
-<a href="https://www.linkedin.com/in/biswajeet-in">LinkedIn</a> &nbsp;·&nbsp; <a href="https://biswajeet.pages.dev">Portfolio</a>
+<a href="https://www.linkedin.com/in/biswajeet-in">LinkedIn</a> &nbsp;·&nbsp; <a href="https://biswajeet.streamlit.app">Portfolio</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ffb454,100:0b0e12&section=footer" alt="footer" width="100%" />
 
