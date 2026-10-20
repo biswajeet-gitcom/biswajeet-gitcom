@@ -74,8 +74,8 @@ Snowflake  ->  dbt  ->  Python EDA  ->  Streamlit  ->  LLM / RAG chatbot
 ## `$ ./prifile`
 
 <table>
-<td>
 <tr>
+<td>
 
 ### Portfolio Profile
 Personal portfolio built in Python with Streamlit library & custom css.
